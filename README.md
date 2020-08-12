@@ -159,9 +159,9 @@ In February 2014, I started work on [App-o-Mat](https://app-o-mat.com), which is
 
 ## Cordova file plugin pull request
 
-While working for a client on a Cordova problem in June 2014, I found a bug in the file plugin. I patched that here:
+While working for a client on a Cordova problem in June 2014, I found a bug in the file plugin and PR'd a fix:
 
-[https://github.com/loufranco/cordova-plugin-file](https://github.com/loufranco/cordova-plugin-file)
+https://github.com/apache/cordova-plugin-file/pull/55
 
 ## Hack for Western Mass 2013
 
