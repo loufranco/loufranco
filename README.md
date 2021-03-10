@@ -2,6 +2,10 @@ This is a mirror of https://loufranco.com/github
 
 Here is an overview of my open source contributions in GitHub
 
+## NerdSummit 2021
+
+In March 2021, I updated the [NerdSummit app](https://github.com/app-o-mat/NerdSummit). I added support for Dark Mode, and since the event will be virtual, I added a button to the session screen to join remotely.
+
 ## App-o-Mat iOS Apps
 
 In July 2020, I decided to open-source some of my iOS Apps.
