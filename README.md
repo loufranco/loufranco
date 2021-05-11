@@ -2,6 +2,17 @@ This is a mirror of https://loufranco.com/github
 
 Here is an overview of my open source contributions in GitHub
 
+## Net Worth Estimator
+
+In May 2021, I wrote a few blog posts about personal finance and modeling the effect of savings on net worth growth.
+
+* [My first lesson in personal finance](https://loufranco.com/blog/the-day-i-learned-about-personal-finance)
+* [Net Worth Estimator Spreadsheet](https://loufranco.com/blog/very-simple-net-worth-estimator)
+* [Net Worth Estimator Spreadsheet Documentation](https://loufranco.com/blog/the-net-worth-spreadsheet-documentation)
+* [Net Worth Estimator Spreadsheet in Python](https://loufranco.com/blog/convert-net-worth-spreadsheet-to-vanilla-python)
+
+[I put the spreadsheet and a python port in GitHub](https://github.com/loufranco/net-worth-estimator).
+
 ## NerdSummit 2021
 
 In March 2021, I updated the [NerdSummit app](https://github.com/app-o-mat/NerdSummit). I added support for Dark Mode, and since the event will be virtual, I added a button to the session screen to join remotely.
