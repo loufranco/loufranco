@@ -26,6 +26,14 @@ In July 2020, I decided to open-source some of my iOS Apps.
 *   [Cap-o-Mat](https://github.com/app-o-mat/CapOMat) : An iOS game made with GameOMatKit that helps you practice US state capitals.
 *   [3D-o-Mat](https://github.com/app-o-mat/3DOMat) : An iOS app that can combine two images (left and right eye) into a 3D photo that you can see with red/cyan 3D glasses.
 
+## Bicycle
+
+Bicycle is a datastructure and algorithm that is like a spreadsheet but supports multiple functions per cell and circular references as long as all of the functions are consistent with each other. It will propagate based on whatever values you seed it with.
+
+Read more in [What is Bicycle?](https://loufranco.com/blog/what-is-bicycle)
+
+There are versions in [Swift](https://github.com/spheresoftinc/SwiftBicycle) and [TypeScript](https://github.com/spheresoftinc/bicycle-network).
+
 ## NerdSummit 2020
 
 In January 2020, I updated the [NerdSummit app](https://github.com/app-o-mat/NerdSummit). It now uses Google Sheets to provide the schedule and sponsor data, and you can search by author.
