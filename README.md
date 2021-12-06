@@ -86,7 +86,7 @@ In July of 2019, [I spoke about this project at SwiftFest](http://loufranco.com/
 
 ## Surge
 
-I added [eigenDecompose and unit-tests](https://github.com/mattt/Surge/pull/95) to Surge in February 2019.
+I added [eigenDecompose and unit-tests](https://github.com/Jounce/Surge/pull/95) to Surge in February 2019.
 
 > Surge is a Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 
