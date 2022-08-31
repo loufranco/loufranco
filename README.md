@@ -2,6 +2,16 @@ This is a mirror of https://loufranco.com/github
 
 Here is an overview of my open source contributions in GitHub
 
+## Page-o-Mat
+
+In August of 2022, I published Page-o-Mat.
+
+Page-o-Mat is a python program that can generate custom journals as a PDF. The journal is specified as YAML file with a few options on paper and page template styles. 
+
+Page blocks can be specified in nested "loops" and the loop indices are available to calculate dates (with simple expressions) that can be used as titles on the pages. This allows you to easily create a daily journal, but also allows for more complex journal styles.
+
+A complete example that implements a "[recurring journal](https://loufranco.com/blog/recurring-journals)" is provided.
+
 ## Net Worth Estimator
 
 In May 2021, I wrote a few blog posts about personal finance and modeling the effect of savings on net worth growth.
