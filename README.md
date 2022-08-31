@@ -4,7 +4,7 @@ Here is an overview of my open source contributions in GitHub
 
 ## Page-o-Mat
 
-In August of 2022, I published Page-o-Mat.
+In August of 2022, I published [Page-o-Mat](https://github.com/app-o-mat/page-o-mat).
 
 Page-o-Mat is a python program that can generate custom journals as a PDF. The journal is specified as YAML file with a few options on paper and page template styles. 
 
