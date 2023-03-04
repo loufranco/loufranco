@@ -2,6 +2,10 @@ This is a mirror of https://loufranco.com/github
 
 Here is an overview of my open source contributions in GitHub
 
+## NerdSummit 2023
+
+In March 2023, I updated the [NerdSummit app](https://github.com/app-o-mat/NerdSummit). Mostly just updated to latest Xcode and tested on latest devices. The JSON format of the schedule was changed, so I updated the parse code to support the new format.
+
 ## Page-o-Mat
 
 In August of 2022, I published [Page-o-Mat](https://github.com/app-o-mat/page-o-mat).
