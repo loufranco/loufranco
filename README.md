@@ -4,7 +4,7 @@ Here is an overview of my open source contributions in GitHub
 
 ## Page-o-Mat Update
 
-In September 2023, I added features to support subtitles, optional titles per page variant, and a space for a footer at the bottom of lined journals.
+In September 2023, I added features to [Page-o-Mat](https://github.com/app-o-mat/page-o-mat) to support subtitles, optional titles per page variant, and a space for a footer at the bottom of lined journals.
 
 ## NerdSummit 2023
 
