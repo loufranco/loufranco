@@ -4,6 +4,8 @@ Here is an overview of my open source contributions in GitHub
 
 ## Page-o-Mat Update
 
+In December 2023, I added a config file for a 2024 [Recurring Journal](https://loufranco.com/blog/recurring-journals).
+
 In September 2023, I added features to [Page-o-Mat](https://github.com/app-o-mat/page-o-mat)
 
 - Subtitles
