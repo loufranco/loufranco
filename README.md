@@ -2,6 +2,10 @@ This is a mirror of https://loufranco.com/github
 
 Here is an overview of my open source contributions in GitHub
 
+## NerdSummit 2024
+
+In March 2024, I updated the [NerdSummit app](https://github.com/app-o-mat/NerdSummit). There aren’t any new features, but the app was updated to the latest Xcode and devices.
+
 ## Page-o-Mat Update
 
 In December 2023, I added a config file for a 2024 [Recurring Journal](https://loufranco.com/blog/recurring-journals).
