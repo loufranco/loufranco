@@ -2,9 +2,15 @@ This is a mirror of https://loufranco.com/github
 
 Here is an overview of my open source contributions in GitHub
 
+## mutmut
+
+In September 2025, I contributed a feature to [mutmut](https://github.com/boxed/mutmut) (a python mutation tester). Mutation testers randomly change code in subtle ways to see if your tests catch the bug (thereby testing the efficacy of your tests).
+
+[I added a feature to mutmut](https://github.com/boxed/mutmut/pull/438) to use coverage.py to limit the mutations to lines that were covered during tests, because we know that changing uncovered lines would never cause a test failure. This makes mutation testing much faster and also makes the report more focused on problems related to mutations and not low coverage.
+
 ## Page-o-Mat Updates 2024
 
-I’m adding features to support making interactive electronic journals (PDFs with internal linking)
+I added features to support making interactive electronic journals (PDFs with internal linking)
 
 - Rectangle drawing supports an optional link to another page (see page-link)
 
