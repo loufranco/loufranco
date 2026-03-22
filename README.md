@@ -247,5 +247,5 @@ In 2013, I co-authored a book called [Hello! iOS Development](http://loufranco.c
 
 ## WFC
 
-In 1999 a sent a patch to WFC to fix a multi-threaded bug in its Queue implementation. I documented it when I
+In 1999, I sent a patch to WFC to fix a multi-threaded bug in its Queue implementation. I documented it when I
 [Found My First Open Source Contribution](https://loufranco.com/blog/finding-my-first-open-source-contribution) on GitHub (it was later migrated there).
