@@ -244,3 +244,8 @@ The site is deployed in Heroku here:
 In 2013, I co-authored a book called [Hello! iOS Development](http://loufranco.com/hello-ios "Hello! iOS"). The source code from the book is here:
 
 [https://github.com/loufranco/hello-ios-source](https://github.com/loufranco/hello-ios-source)
+
+## WFC
+
+In 1999 a sent a patch to WFC to fix a multi-threaded bug in its Queue implementation. I documented it when I
+[Found My First Open Source Contribution](https://loufranco.com/blog/finding-my-first-open-source-contribution) on GitHub (it was later migrated there).
